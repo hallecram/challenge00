@@ -61,6 +61,10 @@ img{
     box-shadow: 7px 7px 20px 1px hsl(212, 14%, 81%);
 }
 
+.hide{
+    display: none;
+}
+
 .attribution { 
     font-size: 11px;
     text-align: center;
